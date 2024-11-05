@@ -31,7 +31,7 @@ A Python utility for managing and resetting 4G routers' IP addresses. This tool 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/4g-router-manager.git
+git clone https://github.com/vgvr0/4G-Router-Manager.git
 ```
 
 2. Install required dependencies:
